@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b133795b.css",
-    "main.js": "/static/js/main.9b72c6e7.js",
+    "main.js": "/static/js/main.af8c2ce2.js",
     "static/media/Jost-Light.ttf": "/static/media/Jost-Light.3190500f570b2fb9409f.ttf",
     "static/media/FjallaOne-Regular.ttf": "/static/media/FjallaOne-Regular.7e0f78509aa68d2b4dc1.ttf",
     "index.html": "/index.html",
     "main.b133795b.css.map": "/static/css/main.b133795b.css.map",
-    "main.9b72c6e7.js.map": "/static/js/main.9b72c6e7.js.map"
+    "main.af8c2ce2.js.map": "/static/js/main.af8c2ce2.js.map"
   },
   "entrypoints": [
     "static/css/main.b133795b.css",
-    "static/js/main.9b72c6e7.js"
+    "static/js/main.af8c2ce2.js"
   ]
 }
